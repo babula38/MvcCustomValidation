@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs
+/src/packages
+/src/CustomMvcValidation/bin
+/src/CustomMvcValidation/obj/Debug
+/src/CustomMvcValidation/obj/Debug/build.force
+/src/CustomMvcValidation/obj/Debug/build.force
